@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Replace line 5 with something new
+What should I put here?  I can't think of anything witty...
 Use the left arrow to go back!
